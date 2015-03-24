@@ -1,0 +1,16 @@
+git submodule add -b master https://github.com/denolfe/AutoHotkey.git ./AutoHotKey.denolfe
+git submodule add -b master https://github.com/fincs/Ahk2Exe.git ./Ahk2Exe
+git submodule add -b master https://github.com/HotKeyIt/ahkdll.git ./AhkDLL.V1
+git submodule add -b master https://github.com/HotKeyIt/ahkdll-v2-release.git ./AhkDLL.V2
+git submodule add -b master https://github.com/rshipp/ahk-libs.git ./Ahk-Libs
+git submodule add -b master https://github.com/theborg3of5/ahk.git ./AHK.theborg3of5
+git submodule add -b master https://github.com/fastred/AHKNavigationController.git ./AHKNavigationController
+git submodule add -b master https://github.com/camerb/AHKs.git ./AHKs
+git submodule add -b master https://github.com/RaptorX/AHK-ToolKit.git ./AHK-ToolKit
+git submodule add -b master https://github.com/AutoHotkey/AutoHotkey.git ./AutoHotkey.Autohotkey
+git submodule add -b master https://github.com/MasterFocus/AutoHotkey.git ./AutoHotkey.MasterFocus
+git submodule add -b master https://github.com/Lexikos/AutoHotkey_L.git ./AutoHotkey_L
+git submodule add -b master https://github.com/Drugoy/Autohotkey-scripts-.ahk.git ./AutohotkeyScripts.Drugoy
+git submodule add -b master https://github.com/polyethene/IronAHK.git ./IronAHK
+git submodule add -b master https://github.com/infogulch/npp-ahk.git ./NPP-AHK
+git submodule add -b master https://github.com/maestrith/AHK-Studio.git ./AHK-Studio
