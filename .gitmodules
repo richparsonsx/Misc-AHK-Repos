@@ -1,0 +1,64 @@
+[submodule "AutoHotKey.denolfe"]
+	path = AutoHotKey.denolfe
+	url = https://github.com/denolfe/AutoHotkey.git
+	branch = master
+[submodule "Ahk2Exe"]
+	path = Ahk2Exe
+	url = https://github.com/fincs/Ahk2Exe.git
+	branch = master
+[submodule "AhkDLL.V1"]
+	path = AhkDLL.V1
+	url = https://github.com/HotKeyIt/ahkdll.git
+	branch = master
+[submodule "AhkDLL.V2"]
+	path = AhkDLL.V2
+	url = https://github.com/HotKeyIt/ahkdll-v2-release.git
+	branch = master
+[submodule "Ahk-Libs"]
+	path = Ahk-Libs
+	url = https://github.com/rshipp/ahk-libs.git
+	branch = master
+[submodule "AHK.theborg3of5"]
+	path = AHK.theborg3of5
+	url = https://github.com/theborg3of5/ahk.git
+	branch = master
+[submodule "AHKNavigationController"]
+	path = AHKNavigationController
+	url = https://github.com/fastred/AHKNavigationController.git
+	branch = master
+[submodule "AHKs"]
+	path = AHKs
+	url = https://github.com/camerb/AHKs.git
+	branch = master
+[submodule "AHK-ToolKit"]
+	path = AHK-ToolKit
+	url = https://github.com/RaptorX/AHK-ToolKit.git
+	branch = master
+[submodule "AutoHotkey.Autohotkey"]
+	path = AutoHotkey.Autohotkey
+	url = https://github.com/AutoHotkey/AutoHotkey.git
+	branch = master
+[submodule "AutoHotkey.MasterFocus"]
+	path = AutoHotkey.MasterFocus
+	url = https://github.com/MasterFocus/AutoHotkey.git
+	branch = master
+[submodule "AutoHotkey_L"]
+	path = AutoHotkey_L
+	url = https://github.com/Lexikos/AutoHotkey_L.git
+	branch = master
+[submodule "AutohotkeyScripts.Drugoy"]
+	path = AutohotkeyScripts.Drugoy
+	url = https://github.com/Drugoy/Autohotkey-scripts-.ahk.git
+	branch = master
+[submodule "IronAHK"]
+	path = IronAHK
+	url = https://github.com/polyethene/IronAHK.git
+	branch = master
+[submodule "NPP-AHK"]
+	path = NPP-AHK
+	url = https://github.com/infogulch/npp-ahk.git
+	branch = master
+[submodule "AHK-Studio"]
+	path = AHK-Studio
+	url = https://github.com/maestrith/AHK-Studio.git
+	branch = master
