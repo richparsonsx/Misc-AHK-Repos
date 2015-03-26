@@ -62,3 +62,15 @@
 	path = AHK-Studio
 	url = https://github.com/maestrith/AHK-Studio.git
 	branch = master
+[submodule "SciTE4AutoHotkey"]
+	path = SciTE4AutoHotkey
+	url = https://github.com/fincs/SciTE4AutoHotkey.git
+	branch = master
+[submodule "AutoHotkey-Util"]
+	path = AutoHotkey-Util
+	url = https://github.com/cocobelgica/AutoHotkey-Util.git
+	branch = master
+[submodule "SciTE4AutoHotkey-Docs"]
+	path = SciTE4AutoHotkey-Docs
+	url = https://github.com/fincs/SciTE4AHK-Docs.git
+	branch = master
